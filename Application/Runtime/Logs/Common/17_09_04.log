@@ -1,0 +1,10 @@
+[ 2017-09-04T15:34:29+08:00 ] ::1 /thinkphp-master/thinkphp-master/Application/Home/View/test/images/2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+
+[ 2017-09-04T15:44:07+08:00 ] ::1 /thinkphp-master/thinkphp-master/Application/Home/View/test/images/2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
