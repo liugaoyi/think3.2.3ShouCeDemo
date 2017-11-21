@@ -1,0 +1,30 @@
+[ 2017-11-21T16:16:30+08:00 ] ::1 /think3.2.3ShouCeDemo/home.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Home.php
+
+[ 2017-11-21T16:40:12+08:00 ] ::1 /think3.2.3ShouCeDemo/Home-Many-index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Home-Many-index
+
+[ 2017-11-21T16:41:37+08:00 ] ::1 /think3.2.3ShouCeDemo/Home/Many/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Home/Many/index
+
+[ 2017-11-21T16:41:40+08:00 ] ::1 /think3.2.3ShouCeDemo/Home/Many.index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Home/Many
+
+[ 2017-11-21T16:41:44+08:00 ] ::1 /think3.2.3ShouCeDemo/Home/Many.index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Home/Many
+
